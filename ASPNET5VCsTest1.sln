@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{390946E4-D827-4315-8A33-E909D9F182E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{538998D5-6340-4592-AE83-08369373AB20}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ASPNET5VCsTest1", "src\ASPNET5VCsTest1\ASPNET5VCsTest1.xproj", "{F3E2F981-649C-4A29-9745-07774FEDC5D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E2F981-649C-4A29-9745-07774FEDC5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E2F981-649C-4A29-9745-07774FEDC5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E2F981-649C-4A29-9745-07774FEDC5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E2F981-649C-4A29-9745-07774FEDC5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3E2F981-649C-4A29-9745-07774FEDC5D7} = {390946E4-D827-4315-8A33-E909D9F182E2}
+	EndGlobalSection
+EndGlobal
